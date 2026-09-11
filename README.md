@@ -78,7 +78,7 @@ See [`hardware/BOM.md`](hardware/BOM.md) for wiring notes.
 
 ## Author
 
-Vikash Kumar @itvikash
+GitHub: [@itvikash](https://github.com/itvikash)
 
 ## License
 
